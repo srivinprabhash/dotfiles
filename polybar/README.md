@@ -1,5 +1,7 @@
 # Polybar
 
+![Screenshot](screenshot.png)
+
 ## Dependencies
 
 - dbus-python ([Arch Linux](https://archlinux.org/packages/extra/x86_64/dbus-python/))
